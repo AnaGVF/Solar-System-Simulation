@@ -1,4 +1,4 @@
-Solar-System-Simulation
+"Solar-System-Simulation."
 
 A 3D Solar System Simulator.
 
